@@ -9,5 +9,3 @@ citation: 'Antonelli, Joseph, and Francesca Dominici. "A Bayesian semiparametric
 ---
 
 [Download paper here](https://arxiv.org/pdf/1805.04899.pdf)
-
-Recommended citation: Antonelli, Joseph, and Francesca Dominici. "A Bayesian semiparametric framework for causal inference in high-dimensional data." arXiv preprint arXiv:1805.04899 (2018).
