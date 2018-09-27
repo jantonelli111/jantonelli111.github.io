@@ -10,5 +10,3 @@ citation: 'Antonelli, Joseph, et al. "Bayesian variable selection for multi-dime
 ---
 
 [Download paper here](https://arxiv.org/pdf/1711.11239.pdf)
-
-Recommended citation: Antonelli, Joseph, et al. "Bayesian variable selection for multi-dimensional semiparametric regression models." arXiv preprint arXiv:1711.11239 (2018).
