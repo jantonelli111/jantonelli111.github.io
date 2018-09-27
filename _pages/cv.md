@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A copy of my CV can be found [Here](https://github.com/jantonelli111/jantonelli111.github.io/blob/master/files/cv.pdf)
+A copy of my CV can be found [Here](files/cv.pdf "CV PDF")
 
 Education
 ======
