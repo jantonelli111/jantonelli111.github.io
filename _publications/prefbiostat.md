@@ -8,7 +8,5 @@ paperurl: 'https://academic.oup.com/biostatistics/article-abstract/17/4/764/2800
 citation: 'Antonelli, Joseph, Matthew Cefalu, and Luke Bornn. "The positive effects of population-based preferential sampling in environmental epidemiology." Biostatistics 17.4 (2016): 764-778.'
 ---
 
-[Download paper here](https://academic.oup.com/biostatistics/article-abstract/17/4/764/2800506)
-
-Recommended citation: 'Antonelli, Joseph, Matthew Cefalu, and Luke Bornn. "The positive effects of population-based preferential sampling in environmental epidemiology." Biostatistics 17.4 (2016): 764-778.'
+[Download paper here](https://jantonelli111.github.io/files/2016-Biostat_Pref_Sampling.pdf)
 
