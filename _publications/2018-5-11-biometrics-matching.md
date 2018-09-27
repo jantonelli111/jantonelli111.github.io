@@ -9,6 +9,3 @@ citation: 'Antonelli, Joseph, et al. "Doubly robust matching estimators for high
 ---
 
 [Download paper here](https://arxiv.org/pdf/1612.00424.pdf)
-
-Antonelli, Joseph, et al. "Doubly robust matching estimators for high dimensional confounding adjustment." Biometrics (2016).
-
