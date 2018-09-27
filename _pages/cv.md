@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A copy of my CV can be found here
+
 Education
 ======
 * B.S. in Statistics, University of Florida, 2011
