@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Joseph Antonelli's website.
+I am an assistant professor in the Department of Statistics at the University of Florida. I completed my PhD in Biostatistics at Harvard University, where I also completed three years of postdoctoral training. 
 
