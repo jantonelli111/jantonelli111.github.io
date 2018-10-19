@@ -2,8 +2,8 @@
 title: "High-dimensional confounding adjustment using continuous spike and slab priors"
 collection: publications
 permalink: /publication/SpikeSlabHD
-date: 2018-6-14
-venue: 'arXiv'
+date: 2018-10-18
+venue: 'Bayesian Analysis', to appear
 paperurl: 'https://arxiv.org/pdf/1704.07532.pdf'
 authors: Joseph Antonelli, Giovanni Parmigiani, and Francesca Dominici
 citation: 'Antonelli, Joseph, Giovanni Parmigiani, and Francesca Dominici. "High-dimensional confounding adjustment using continuous spike and slab priors." arXiv preprint arXiv:1704.07532 (2018).'
