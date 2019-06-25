@@ -2,7 +2,7 @@
 title: "Spike-and-Slab Group Lassos for Grouped Regression and Sparse Generalized Additive Models"
 collection: publications
 permalink: /publication/SSGL
-date: 2019-03-08
+date: 2019-06-22
 venue: 'Under revision. Journal of the American Statistical Association'
 paperurl: 'https://arxiv.org/pdf/1903.01979.pdf'
 authors: Ray Bai, Gemma Moran, Joseph Antonelli, Yong Chen, and Mary Boland
