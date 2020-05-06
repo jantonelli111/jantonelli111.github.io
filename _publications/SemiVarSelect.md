@@ -3,7 +3,7 @@ title: "Estimating the health effects of environmental mixtures using Bayesian s
 models"
 collection: publications
 permalink: /publication/SemiVarSelect
-date: 2019-4-25
+date: 2020-1-25
 venue: 'The Annals of Applied Statistics'
 paperurl: 'https://arxiv.org/pdf/1711.11239.pdf'
 authors: Joseph Antonelli, Maitreyi Mazumdar, David Bellinger, David Christiani, Robert Wright, and Brent Coull
