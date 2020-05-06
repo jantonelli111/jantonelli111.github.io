@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Statistics, University of Florida, 2011
 * M.S. in Biostatistics, Harvard University, 2013
-* Ph.D in Biostatistcs, Harvard University, 2015
+* Ph.D in Biostatistics, Harvard University, 2015
 
 Work experience
 ======
