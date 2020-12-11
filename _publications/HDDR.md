@@ -2,7 +2,7 @@
 title: "Causal Inference in high dimensions: A marriage between Bayesian modeling and good frequentist properties "
 collection: publications
 permalink: /publication/HDDR
-date: 2020-09-21
+date: 2020-06-01
 venue: 'To appear. Biometrics'
 paperurl: 'https://arxiv.org/pdf/1805.04899.pdf'
 authors: Joseph Antonelli, Georgia Papadogeorgou, and Francesca Dominici
