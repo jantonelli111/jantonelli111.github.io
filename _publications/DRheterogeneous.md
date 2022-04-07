@@ -2,7 +2,7 @@
 title: "Improved inference for doubly robust estimators of heterogeneous treatment effects"
 collection: publications
 permalink: /publication/DRheterogeneous
-date: 2021-04-01
+date: 2022-04-01
 venue: 'Under revision. Biometrics'
 paperurl: 'https://arxiv.org/pdf/2111.03594.pdf'
 authors: Heejun Shin and Joseph Antonelli
