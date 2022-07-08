@@ -9,6 +9,3 @@ redirect_from:
 ---
 
 I am an assistant professor in the Department of Statistics at the University of Florida. I completed my PhD in Biostatistics at Harvard University, where I also completed three years of postdoctoral training. I have a broad interest in statistics, but most of my research has centered around high-dimensional modeling, flexible Bayesian models, causal inference, and spatial statistics. I have applied my methodological research to a number of problems in environmental health and criminology. When I'm not doing statistics, I can be found on the rock wall or on the soccer field. 
-
-I am hiring a postdoctoral fellow to work in causal inference methodology and environmental statistics. Email me at jantonelli@ufl.edu if interested!
-
