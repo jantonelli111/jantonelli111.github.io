@@ -2,7 +2,7 @@
 title: "Heterogeneous causal effects of neighborhood policing in New York City with staggered adoption of the policy"
 collection: publications
 permalink: /publication/NeighborhoodPolicing
-date: 2020-06-20
+date: 2022-06-20
 venue: 'Under revision. Journal of the Royal Statistical Society: Series A'
 paperurl: 'https://arxiv.org/pdf/2006.07681.pdf'
 authors: Joseph Antonelli and Brenden Beck
