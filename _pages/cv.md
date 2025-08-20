@@ -22,6 +22,9 @@ Work experience
 * 2015-2018: Postdoctoral Research Fellow
   * Harvard University
 
-* 2018 - present: Assistant Professor
+* 2018 - 2025: Assistant Professor
+  * University of Florida
+ 
+* 2025 - present: Associate Professor
   * University of Florida
  
