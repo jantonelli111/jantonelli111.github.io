@@ -2,7 +2,7 @@
 title: "Partial identification and unmeasured confounding with multiple treatments and multiple outcomes"
 collection: publications
 permalink: /publication/SensitivityMulti
-date: 2025-01-13
+date: 2025-05-15
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2311.12252.pdf'
 authors: Suyeon Kang, Alexander Franks, Michelle Audirac, Danielle Braun, and Joseph Antonelli
