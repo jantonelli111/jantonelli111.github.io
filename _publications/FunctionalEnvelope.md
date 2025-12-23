@@ -2,7 +2,7 @@
 title: "Envelope-based partial least squares in functional regression"
 collection: publications
 permalink: /publication/FunctionalEnvelope
-date: 2025-03-01
+date: 2025-01-01
 venue: 'The Journal of Multivariate Analysis'
 paperurl: 'https://arxiv.org/pdf/2504.17195'
 authors: Minxuan Wu, Joseph Antonelli, and Zhihua Su
