@@ -2,7 +2,7 @@
 title: "Partial identification of principal causal effects under violations of principal ignorability"
 collection: publications
 permalink: /publication/PrincipalIgnorability
-date: 2024-12-10
+date: 2025-01-15
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/pdf/2412.06628'
 authors: Minxuan Wu and Joseph Antonelli
