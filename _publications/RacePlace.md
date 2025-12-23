@@ -2,7 +2,7 @@
 title: "Causal inference and racial bias in policing: New estimands and the importance of mobility data"
 collection: publications
 permalink: /publication/RacePlace
-date: 2024-8-29
+date: 2025-03-28
 venue: 'Journal of the Royal Statistical Society: Series A. Revision invited'
 paperurl: 'https://arxiv.org/pdf/2409.08059'
 authors: Zhuochao Huang, Brenden Beck, and Joseph Antonelli
